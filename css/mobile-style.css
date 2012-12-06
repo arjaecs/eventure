@@ -1,0 +1,51 @@
+.ui-page{
+    background: url('bodybg.jpg') repeat-y center !important;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+   /* color: #fff !important */
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative !important;
+    width: 100%;
+
+}
+
+.ui-bar-a {
+	display: none;
+}
+
+
+
+#header{
+	font-size: 36px;
+	text-align: left;
+    width: 100%;
+
+	
+}
+
+#wsite-title{
+    font-family:'Capture it' !important;
+    color:#009900 !important;
+    text-shadow: none !important;}
+
+.wsite-logo {
+    width: 75%;
+
+}
+
+#wrapper {
+    width: 97%;
+
+	
+    margin: 0 auto;
+    background: url('wrapper-scaled.jpg') top no-repeat;
+}
+
+.ui-content {
+
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+
